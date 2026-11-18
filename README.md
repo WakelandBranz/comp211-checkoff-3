@@ -2,6 +2,9 @@
 
 **Wakeland Branz · COMP 211**
 
+## Scheduler Simulator
+>[!info] Run ./sched-sim-executable in your terminal!
+
 ## Introduction
 
 Every running program wants time on the CPU, but a CPU core can only run one task at a time. The **scheduler** is the part of the operating system that decides which process runs next and for how long. This project looks at how Linux has answered that question over its history, from a ~250-line function written by a college student in 1991 to the scheduler running in the kernel today.

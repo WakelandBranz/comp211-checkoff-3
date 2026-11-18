@@ -1,0 +1,1 @@
+/home/Wake/Documents/School/UNC/sophomore_year/comp_211/comp211-checkoff-3/sched-sim/target/release/sched-sim: /home/Wake/Documents/School/UNC/sophomore_year/comp_211/comp211-checkoff-3/sched-sim/src/main.rs
