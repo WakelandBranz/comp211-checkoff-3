@@ -2,6 +2,9 @@
 
 **Wakeland Branz · COMP 211**
 
+**Presentation**
+https://youtu.be/_p1z_qz6ZUo
+
 ## Scheduler Simulator
 > Run ./sched-sim-executable in your terminal!
 
