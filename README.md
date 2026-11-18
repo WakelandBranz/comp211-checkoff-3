@@ -3,7 +3,7 @@
 **Wakeland Branz · COMP 211**
 
 ## Scheduler Simulator
->[!info] Run ./sched-sim-executable in your terminal!
+> Run ./sched-sim-executable in your terminal!
 
 ## Introduction
 
