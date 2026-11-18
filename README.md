@@ -6,7 +6,10 @@
 https://youtu.be/_p1z_qz6ZUo
 
 ## Scheduler Simulator
-> Run ./sched-sim-executable in your terminal!
+> Run ./sched-sim-executable in your terminal (compiled for Linux)!
+> If you are trying to run this executable on another operating system, ensure you have cargo installed and recompile using cargo build --release in the sched-sim folder.
+
+Cargo Installation: https://doc.rust-lang.org/cargo/getting-started/installation.html
 
 ## Introduction
 
